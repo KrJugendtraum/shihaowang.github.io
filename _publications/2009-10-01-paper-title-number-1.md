@@ -1,8 +1,8 @@
 ---
 title: "ON BOTT-SAMELSON RINGS FOR COXETER GROUPS"
-collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+collection: 
+category: 
+permalink:
 excerpt:
 date: 2024-8-19
 venue: 
