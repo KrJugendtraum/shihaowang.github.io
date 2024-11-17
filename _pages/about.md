@@ -9,7 +9,7 @@ redirect_from:
 
 I am an undergraduate student in Tsinghua University from Sept 2021, under the supervision of Chenglong Yu. My research interests focus on application of algebraic geometry in combinatorics and classification of algebraic varieties.
 
-[wangshih21@mails.tsinghua.edu.cn](wangshih21@mails.tsinghua.edu.cn)
+[wangshih21@mails.tsinghua.edu.cn](mailto:wangshih21@mails.tsinghua.edu.cn)
 
 A data-driven personal website
 ======
