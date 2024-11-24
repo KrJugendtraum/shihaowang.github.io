@@ -9,7 +9,10 @@ main:
     url: /publications/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/   
+
+  - title: "notes"
+    url: /notes/
     
   # - title: "Guide"
   # url: /markdown/
