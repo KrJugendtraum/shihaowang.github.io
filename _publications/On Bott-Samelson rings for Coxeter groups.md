@@ -1,8 +1,8 @@
 ---
 title: "ON BOTT-SAMELSON RINGS FOR COXETER GROUPS"
-collection: 
-category: 
-permalink:
+collection: publications
+category: manuscripts
+permalink: /publication/On Bott-Samelson rings for Coxeter groups.md
 excerpt:
 date: 2024-8-19
 venue: 
