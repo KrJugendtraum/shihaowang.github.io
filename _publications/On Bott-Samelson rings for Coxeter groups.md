@@ -2,7 +2,7 @@
 title: "ON BOTT-SAMELSON RINGS FOR COXETER GROUPS"
 collection: publications
 category: manuscripts
-permalink: /publication/On Bott-Samelson rings for Coxeter groups
+permalink:
 excerpt:
 date: 2024-8-19
 venue: 
